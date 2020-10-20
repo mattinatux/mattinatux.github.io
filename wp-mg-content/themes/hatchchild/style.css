@@ -1,0 +1,23 @@
+/*
+Theme Name:     HatchChild
+Description:    child from hatch
+Author:         mgadmin
+Template:       hatch
+
+(optional values you can add: Theme URI, Author URI, Version)
+*/
+
+@import url("../hatch/style.css");
+
+/* Home page 
+-------------------------------------------------------------- */
+#author-bio {
+	float: left;
+	width: 27.65957446808511%;
+	text-align:right
+}
+
+.ModifiedHomeBody {
+	float: center;
+	text-align: center
+}
